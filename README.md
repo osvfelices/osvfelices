@@ -13,37 +13,32 @@ Being an artist has also taught me to be curious about new things, every day you
 
 I am a person with much determination, who has no complexes to ask for help when needed, a team player, and not afraid of ideas, suggestions, or constructive criticism.
 
-I am currently studying at a href="https://github.com/WildCodeSchool">@WildCodeSchool</a> to become a Full Stack Web Developer, where I am acquiring and mastering new skills.
+I am currently studying at <a href="https://github.com/WildCodeSchool">@WildCodeSchool</a> to become a Full Stack Web Developer, where I am acquiring and mastering new skills.
 
  <!-- About section ENDS -->
  ---
 
 <!-- Languages section -->
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
-![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
-![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=36465D&logoColor=AAA&style=flat-square)
-![ruby](https://img.shields.io/static/v1?logo=ruby&label=&message=ruby&color=36465D&logoColor=AAA&style=flat-square)
-![scala](https://img.shields.io/static/v1?logo=scala&label=&message=scala&color=36465D&logoColor=AAA&style=flat-square)
-&nbsp;&nbsp;&nbsp;
-![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
-![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=36465D&logoColor=AAA&style=flat-square)
-![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
-![spark](https://img.shields.io/static/v1?logo=apache-spark&label=&message=spark&color=36465D&logoColor=AAA&style=flat-square)
-![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
-&nbsp;&nbsp;&nbsp;
-![worksat](https://img.shields.io/static/v1?label=&message=@:&color=111&style=flat-square)
-![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=000&style=flat-square)
+![JavaScript](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=000&logoColor=fff&style=flat-square&link=)
+![React](https://img.shields.io/static/v1?logo=react&label=&message=React.js&color=000&logoColor=fff&style=flat-square&link=)
+![Node](https://img.shields.io/static/v1?logo=node.js&label=&message=Node.js&color=000&logoColor=fff&style=flat-square&link=)
+![Node](https://img.shields.io/static/v1?logo=javascript&label=&message=Express.js&color=000&logoColor=fff&style=flat-square&link=)
+![Express](https://img.shields.io/static/v1?logo=javascript&label=&message=Express.js&color=000&logoColor=fff&style=flat-square&link=)
+![MySQL](https://img.shields.io/static/v1?logo=mysql&label=&message=MySQL&color=000&logoColor=fff&style=flat-square&link=)
+![html5](https://img.shields.io/static/v1?logo=html5&label=&message=Html5&color=000&logoColor=fff&style=flat-square&link=)
+![MySQL](https://img.shields.io/static/v1?logo=css3&label=&message=Css&color=000&logoColor=fff&style=flat-square&link=)
+
 
 
 <!-- Languages section ENDS -->
 
 ----
 
-<a href="https://www.instagram.com/moer.tel/">
+<a href="https://www.instagram.com/klucasofficial/">
   <img align="left" alt="Osvfelices's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/000" />
 </a>
-<a href="https://linkedin.com/in/stefaniegrunwald">
+<a href="https://www.linkedin.com/in/osvfelices/">
   <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/000" />
 </a>
 
