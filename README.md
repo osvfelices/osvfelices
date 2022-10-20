@@ -13,9 +13,10 @@ Being an artist has also taught me to be curious about new things, every day you
 
 I am a person with much determination, who has no complexes to ask for help when needed, a team player, and not afraid of ideas, suggestions, or constructive criticism.
 
-I am currently studying at Wild Code School to become a Full Stack Web Developer, where I am acquiring and mastering new skills.
+I am currently studying at a href="https://github.com/WildCodeSchool">@WildCodeSchool</a> to become a Full Stack Web Developer, where I am acquiring and mastering new skills.
 
  <!-- About section ENDS -->
+ ---
 
 <!-- Languages section -->
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
@@ -36,7 +37,15 @@ I am currently studying at Wild Code School to become a Full Stack Web Developer
 
 
 <!-- Languages section ENDS -->
-<!---
-osvfelices/osvfelices is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+----
+
+<a href="https://www.instagram.com/moer.tel/">
+  <img align="left" alt="Osvfelices's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/000" />
+</a>
+<a href="https://linkedin.com/in/stefaniegrunwald">
+  <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/000" />
+</a>
+
+| &nbsp;&nbsp;&nbsp; Looking for music distribution? Check out my company Forward Digital : [https://fwdmusic.com](https://fwdmusic.com) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</sub>
+
