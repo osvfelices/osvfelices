@@ -13,7 +13,7 @@ Being an artist has also taught me to be curious about new things, every day you
 
 I am a person with much determination, who has no complexes to ask for help when needed, a team player, and not afraid of ideas, suggestions, or constructive criticism.
 
-I am currently studying at <a href="https://github.com/WildCodeSchool">@WildCodeSchool</a> to become a Full Stack Web Developer, where I am acquiring and mastering new skills.
+I am currently working at Amadeus Lab.
 
  <!-- About section ENDS -->
  ---
