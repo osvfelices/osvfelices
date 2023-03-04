@@ -23,7 +23,6 @@ I am currently working at Amadeus Lab.
 ![JavaScript](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=000&logoColor=fff&style=flat-square&link=)
 ![React](https://img.shields.io/static/v1?logo=react&label=&message=React.js&color=000&logoColor=fff&style=flat-square&link=)
 ![Node](https://img.shields.io/static/v1?logo=node.js&label=&message=Node.js&color=000&logoColor=fff&style=flat-square&link=)
-![Node](https://img.shields.io/static/v1?logo=javascript&label=&message=Express.js&color=000&logoColor=fff&style=flat-square&link=)
 ![Express](https://img.shields.io/static/v1?logo=javascript&label=&message=Express.js&color=000&logoColor=fff&style=flat-square&link=)
 ![MySQL](https://img.shields.io/static/v1?logo=mysql&label=&message=MySQL&color=000&logoColor=fff&style=flat-square&link=)
 ![html5](https://img.shields.io/static/v1?logo=html5&label=&message=Html5&color=000&logoColor=fff&style=flat-square&link=)
