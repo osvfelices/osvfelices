@@ -1,5 +1,6 @@
 <!-- Heading -->
-<img src = "https://user-images.githubusercontent.com/93431645/211344139-0ad81b3c-63e6-47e1-b4dd-fca88fb2a4f2.jpg" width = auto> 
+![1663936417603](https://github.com/user-attachments/assets/c0816376-9fb1-43e3-81da-35721d93b03d)
+
 <h2> Hi there! I'm Osvfelices</h2>
 <!-- Heading ENDS -->
 
