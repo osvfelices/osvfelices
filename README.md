@@ -39,7 +39,7 @@ I am currently working at Amadeus Lab.
   <img align="left" alt="Osvfelices's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/000" />
 </a>
 <a href="https://www.linkedin.com/in/osvfelices/">
-  <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/000" />
+  <img align="left" alt="LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" style="filter: invert(0);" />
 </a>
 
 | &nbsp;&nbsp;&nbsp; Looking for music distribution? Check out my company Forward Digital : [https://fwdmusic.com](https://fwdmusic.com) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</sub>
