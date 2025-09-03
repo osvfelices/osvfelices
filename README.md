@@ -4,21 +4,6 @@
 <h2> Hi there! I'm Osvfelices</h2>
 <!-- Heading ENDS -->
 
-1.  <!-- About section -->
-2. 
-3. From a very young age, I studied dance. My more than 20 years of experience as an artist have endowed me with several qualities which are a precious part of my personality. 
-4. 
-5. First of all, I am a person with the need for creation, whether it is a dance, a musical production, (I have also produced for more than 5 years electronic music), or a web application. When you are an artist you have that need for creation. 
-6. 
-7. Being an artist has also taught me to be curious about new things, every day you learn something new, and to be perseverant to achieve, solve and overcome new challenges. It has taught me to be a detail-oriented person, to be flexible and to know how to adapt to new scenarios, to be critical of myself.
-8. 
-9. I am a person with much determination, who has no complexes to ask for help when needed, a team player, and not afraid of ideas, suggestions, or constructive criticism.
-10. 
-11. I am currently working at Amadeus Lab.
-
- <!-- About section ENDS -->
- ---
-
 <!-- Languages section -->
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=000&style=flat-square)
 ![JavaScript](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=000&logoColor=fff&style=flat-square&link=)
